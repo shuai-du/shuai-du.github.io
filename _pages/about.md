@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Wuhan University. My research interests are **Health Economics**, **Environmental Economics**, and **Applied Microeconomics**.
+I am a PhD Student at Wuhan University. My research interests include **Health Economics**, **Environmental Economics**, and **Applied Microeconomics**.
 
 ## Contact
 
