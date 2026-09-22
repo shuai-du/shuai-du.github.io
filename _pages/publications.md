@@ -41,8 +41,8 @@ author_profile: true
   <h2>Publications</h2>
   <ul>
     <li>
-      With Huihui Wang, Yuhao Zhong, Suru Liu, Tingting Xu, Yue Zhao, Wanlin He, Hanyu Xue, Yifeng He, Xiaoyong Gao, and Ruifeng Jiang.
-      Unveiling the Impact Mechanism of Urban Resilience on Carbon Dioxide Emissions of the Pearl River Delta Urban Agglomeration in China,
+      “Unveiling the Impact Mechanism of Urban Resilience on Carbon Dioxide Emissions of the Pearl River Delta Urban Agglomeration in China,”
+      with Huihui Wang et al.,
       <span class="journal">Environmental Impact Assessment Review</span>, 105, 107422, 2024.
       <a href="https://doi.org/10.1016/j.eiar.2024.107422">DOI</a>.
     </li>
