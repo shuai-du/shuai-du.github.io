@@ -9,6 +9,8 @@ redirect_from:
 
 I am a PhD student in Health Economics at Wuhan University.
 
-My research interests lie at the intersection of health economics, environmental economics, and applied microeconomics. I use microeconometric methods and large-scale survey and environmental data to study how environmental exposures and public policies affect health and economic behavior.
+My research interests lie at the intersection of **health economics**, **environmental health**, and **applied microeconomics**. I use microeconometric methods and large-scale survey and environmental data to study how environmental exposures and public policies affect health and economic behavior.
 
-This website contains information about my research and curriculum vitae.
+My current research includes work on the mental-health effects of short-term air pollution in China.
+
+Please see the [Research](/research/) page for current projects and the [CV](/cv/) page for a brief academic profile.
